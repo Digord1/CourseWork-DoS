@@ -395,11 +395,9 @@ public class NetworkTester {
         System.out.println("=".repeat(80));
     }
 
-    /**
-     * ОСНОВНОЙ МЕТОД
-     */
+    //ОСНОВНОЙ МЕТОД
     public static void main(String[] args) {
-        System.out.println("🛡️ NETWORK TESTER v2.0 🛡️");
+        System.out.println("NETWORK TESTER");
         System.out.println("Стабильный стресс-тест с адаптивным контролем\n");
 
         if (args.length < 2) {
