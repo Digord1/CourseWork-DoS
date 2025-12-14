@@ -364,7 +364,7 @@ public class NetworkTester {
         long errors = totalErrors.get();
 
         System.out.println("\n\n" + "=".repeat(80));
-        System.out.println("📊 РЕЗУЛЬТАТЫ СТАБИЛЬНОГО ТЕСТА");
+        System.out.println("РЕЗУЛЬТАТЫ ТЕСТА");
         System.out.println("=".repeat(80));
 
         if (seconds > 0) {
